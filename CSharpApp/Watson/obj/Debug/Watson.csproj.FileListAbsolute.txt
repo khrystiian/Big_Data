@@ -1,0 +1,23 @@
+D:\UCN Denmark\Visual Studio\Projects\PublicTweetsSolution\Watson\bin\Debug\Watson.exe.config
+D:\UCN Denmark\Visual Studio\Projects\PublicTweetsSolution\Watson\bin\Debug\Watson.exe
+D:\UCN Denmark\Visual Studio\Projects\PublicTweetsSolution\Watson\bin\Debug\Watson.pdb
+D:\UCN Denmark\Visual Studio\Projects\PublicTweetsSolution\Watson\obj\Debug\Watson.csprojResolveAssemblyReference.cache
+D:\UCN Denmark\Visual Studio\Projects\PublicTweetsSolution\Watson\obj\Debug\Watson.exe
+D:\UCN Denmark\Visual Studio\Projects\PublicTweetsSolution\Watson\obj\Debug\Watson.pdb
+D:\School\Big data project\Movie personality\IMDB-Watson\Watson imdb\Watson\bin\Debug\Watson.exe.config
+D:\School\Big data project\Movie personality\IMDB-Watson\Watson imdb\Watson\obj\Debug\Watson.exe
+D:\School\Big data project\Movie personality\IMDB-Watson\Watson imdb\Watson\obj\Debug\Watson.pdb
+D:\School\Big data project\Movie personality\IMDB-Watson\Watson imdb\Watson\bin\Debug\Watson.exe
+D:\School\Big data project\Movie personality\IMDB-Watson\Watson imdb\Watson\bin\Debug\Watson.pdb
+D:\School\Big data project\Movie personality\IMDB-Watson\Watson imdb\Watson\obj\Debug\Watson.csprojResolveAssemblyReference.cache
+D:\School\Big data project\Movie personality\IMDB-Watson\Watson imdb\Watson\bin\Debug\RestSharp.dll
+D:\School\Big data project\Movie personality\IMDB-Watson\Watson imdb\Watson\bin\Debug\RestSharp.xml
+D:\School\Big data project\Movie personality\IMDB-Watson\Watson imdb\Watson\bin\Debug\Newtonsoft.Json.dll
+D:\School\Big data project\Movie personality\IMDB-Watson\Watson imdb\Watson\bin\Debug\Newtonsoft.Json.xml
+D:\School\Big data project\Movie personality\IMDB-Watson\Watson imdb\Watson\bin\Debug\MongoDB.Bson.dll
+D:\School\Big data project\Movie personality\IMDB-Watson\Watson imdb\Watson\bin\Debug\MongoDB.Driver.Core.dll
+D:\School\Big data project\Movie personality\IMDB-Watson\Watson imdb\Watson\bin\Debug\MongoDB.Driver.dll
+D:\School\Big data project\Movie personality\IMDB-Watson\Watson imdb\Watson\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\School\Big data project\Movie personality\IMDB-Watson\Watson imdb\Watson\bin\Debug\MongoDB.Bson.xml
+D:\School\Big data project\Movie personality\IMDB-Watson\Watson imdb\Watson\bin\Debug\MongoDB.Driver.xml
+D:\School\Big data project\Movie personality\IMDB-Watson\Watson imdb\Watson\bin\Debug\MongoDB.Driver.Core.xml

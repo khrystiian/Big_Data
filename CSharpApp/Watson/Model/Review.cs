@@ -1,0 +1,64 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Watson
+{
+    public class Review
+    {
+        public int Id { get; set; }
+        public string MovieId { get; set; }
+        public double Score { get; set; }
+        public string Body { get; set; }
+
+        public static string DummyReviews()
+        {
+            return @"
+
+Why do I want to write the 234th comment on The Shawshank Redemption? I am not sure - almost everything that could be possibly said about it has been said. But like so many other people who wrote comments, I was and am profoundly moved by this simple and eloquent depiction of hope and friendship and redemption. 
+
+The only other movie I have ever seen that effects me as strongly is To Kill a Mockingbird. Both movies leave me feeling cleaner for having watched them.
+
+I didn't intend to see this movie at all: I do not like prison movies and I don't normally watch them. I work at a branch library and one day as I was checking The Shawshank Redemption out to one of our older patrons, she said to me, 'Whenever I feel down or depressed, I check out this movie and watch it and it always makes me feel better.' At the time, I thought that was very strange. One day there was nothing on TV except things I absolutely would not watch under any circumstance or things that I had seen too many times already. I remembered what she said, so I watched it. I have watched it many many times since then and it gets better with every showing.
+
+No action, no special effects -just men in prison uniforms talking to each other.
+
+The Shawshank Redemption and To Kill a Mockingbird are the best movies I have ever seen. I do not judge it by it's technical merits - I don't really care about that.I have read that Citizen Kane or The Godfather or this or that movie is the best movie ever made. They may have the best technique or be the most influential motion pictures ever made, but not the best. The best movies are ones that touch the soul.It takes a movie like The Shawshank Redemption to touch the soul.
+
+
+Can Hollywood, usually creating things for entertainment purposes only, create art ? To create something of this nature, a director must approach it in a most meticulous manner, due to the delicacy of the process.Such a daunting task requires an extremely capable artist with an undeniable managerial capacity and an acutely developed awareness of each element of art in their films, the most prominent; music, visuals, script, and acting. These elements, each equally important, must succeed independently, yet still form a harmonious union, because this mixture determines the fate of the artist's opus.  Though already well known amongst his colleagues for his notable skills at writing and directing, Frank Darabont emerges with his feature film directorial debut, The Shawshank Redemption.  Proving himself already a master of the craft, Darabont managed to create one of the most recognizable independent releases in the history of Hollywood.  The Shawshank Redemption defines a genre, defies the odds, compels the emotions, and brings an era of artistically influential films back to Hollywood.
+
+The story begins with the trial of a young banker, Andy Dufrense, victimized by circumstantial evidence, resulting in a conviction for the murder of his wife and her lover.After a quick conviction, Andy finds himself serving a life sentence at Shawshank prison, with no hope of parole.He exists in this prison only in appearance, keeping his mind free from the drab walls around him.His ability to do this results in the gaining of respect from his fellow inmates, but most of all from Ellis Redding.Ellis, commonly referred to as Red, finds gainful use of his entrepreneurial spirit within the drab walls of Shawshank by dealing in contraband and commodities rare to the confines of prison.Andy's demeanor and undeniable sense of hope causes Red to take a deeper look at himself, and the world around him.  Andy proves to Red and the other inmates that in the conventional walls of Shawshank prison convention will find no home in his lifestyle.
+
+By creating the film's firm foundation, the meticulously chiseled screenplay paved the way for this film's success.  Frank Darabont outdoes himself with the phenomenal adaptation of Stephen King's equally noteworthy novella, Rita Hayworth and Shawshank Redemption.  In this novella, King demonstrates that he can break free from the genre he dominates and still create a marvelous piece of modern literature.  Though the film mirrors the novella in many ways, Darabont illustrates a focused objective of improving upon the areas where the novella came up short, resulting in one of the best book to film transitions ever.
+
+While maintaining some of the poetic and moving dialogue of the novella, Darabont also proves that a film's score can generate a great deal of emotional response from its audience, as dialogue does.  He employs the cunning Thomas Newman, son of the legendary Hollywood composer, Alfred Newman.  Darabont shows recognition for the film's needs by employing Newman, who makes the gentle piano chords whisper softly to the viewer, as if a part of the scripted dialogue.Newman lends himself to individualism and tends to drive more towards the unique in the realm of score composition.His effort in Shawshank did not go unnoticed, as his score received an Oscar nomination in 1995.While unique and independent, Newman's score never once intrudes on your concentration or distracts from the film.
+
+With work from vast array of talented scene designers, costume designers, composers, cinematographers, and various other Hollywood artists, the cast of The Shawshank Redemption had a strong foundation to work with.  The marvelous cast of this film will dazzle you with some of the most convincing performances you will witness in a film.  While both Tim Robbins and Morgan Freeman shine as Andy and Red, respectively, the true spectacle of acting lies within the plethora of amazing supporting actors who easily disappear into their roles.Most noticeable of these, the veteran film star James Whitmore, who portrays the elderly Brooks Hatlen.  Brooks, a man incarcerated for an unmentioned crime for so long that he finds himself attached to the Shawshank and the daily life he has lead.Each of these actors show a true dedication to their art, and a focused purpose in their motivations, creating a convincing setting that never once caters to anything unbelievable.
+
+With all of the aesthetic touches and attention to cinematic detail, the most beautiful part of the film lies within its thematic material, such as its focus on the human desires for the most abstract concepts, like hope and freedom.These themes, which concern things the human spirit undoubtedly yearns for, seem so intricately woven into the plot that it easily draws its audience in to its story.Though full of hardened criminals, your heart will go out to these men as they display the most basic of human emotions, and deliver some of the most quotable lines in a film to date.  Like a great novel, this film manages to succeed at greater things than simply entertaining an audience.  Darabont tells his story most masterfully, illustrating principles and inspiring his audience to think.  He leaves us a
+poignant film with a powerful message of hope, and redemption, something we all seek.
+
+
+This film manages to redeem Hollywood in the eyes of people who feared it long lost in a dark sea of clichés and predictability.Darabont shows us that artists still work in the Hollywood studios and production facilities. These artists show their capability to produce art; real art that inspires you to look at the deeper aspects of life and the world around you.The Shawshank Redemption delivers much-needed breath of fresh air for anyone who realizes the capability of film.It proves that masters of the craft still live on this earth, and still bless us with timeless masterpieces that we will never forget.
+
+
+In its Oscar year, Shawshank Redemption (written and directed by Frank Darabont, after the novella Rita Hayworth and the Shawshank Redemption, by Stephen King) was nominated for seven Academy Awards, and walked away with zero.Best Picture went to Forrest Gump, while Shawshank and Pulp Fiction were 'just happy to be nominated.' Of course hindsight is 20/20, but while history looks back on Gump as a good film, Pulp and Redemption are remembered as some of the all-time best.Pulp, however, was a success from the word 'go,' making a huge splash at Cannes and making its writer-director an American master after only two films. For Andy Dufresne and Co., success didn't come easy. Fortunately, failure wasn't a life sentence.
+
+
+After opening on 33 screens with take of $727,327, the $25M film fell fast from theatres and finished with a mere $28.3M. The reasons for failure are many.Firstly, the title is a clunker. While iconic to fans today, in 1994, people knew not and cared not what a 'Shawshank' was.On the DVD, Tim Robbins laughs recounting fans congratulating him on 'that 'Rickshaw' movie.' Marketing-wise, the film's a nightmare, as 'prison drama' is a tough sell to women, and the story of love between two best friends doesn't spell winner to men.Worst of all, the movie is slow as molasses.As Desson Thomson writes for the Washington Post, 'it wanders down subplots at every opportunity and ignores an abundance of narrative exit points before settling on its finale.' But it is these same weaknesses that make the film so strong.
+
+Firstly, its setting. The opening aerial shots of the prison are a total eye-opener.This is an amazing piece of architecture, strong and Gothic in design.Immediately, the prison becomes a character.It casts its shadow over most of the film, its tall stone walls stretching above every shot. It towers over the men it contains, blotting out all memories of the outside world. Only Andy (Robbins) holds onto hope.It's in music, it's in the sandy beaches of Zihuatanejo; 'In here's where you need it most,' he says. 'You need it so you don't forget. Forget that there are places in the world that aren't made out of stone. That there's a - there's a - there's something inside that's yours, that they can't touch.' Red (Morgan Freeman) doesn't think much of Andy at first, picking 'that tall glass o' milk with the silver spoon up his as as the first new fish to crack. Andy says not a word, and losing his bet, Red resents him for it. But over time, as the two get to know each other, they quickly become the best of friends. This again, is one of the film's major strengths. Many movies are about love, many flicks have a side-kick to the hero, but Shawshank is the only one I can think of that looks honestly at the love between two best friends. It seems odd that Hollywood would skip this relationship time and again, when it's a feeling that weighs so much into everyone's day to day lives. Perhaps it's too sentimental to seem conventional, but Shawshank's core friendship hits all the right notes, and the film is much better for it.
+
+It's pacing is deliberate as well. As we spend the film watching the same actors, it is easy to forget that the movie's timeline spans well over 20 years.Such a huge measure of time would pass slowly in reality, and would only be amplified in prison.And it's not as if the film lacks interest in these moments. It still knows where it's going, it merely intends on taking its sweet time getting there.It pays off as well, as the tedium of prison life makes the climax that much more exhilarating.For anyone who sees it, it is a moment never to be forgotten.
+
+
+With themes of faith and hope, there is a definite religious subtext to be found here. Quiet, selfless and carefree, Andy is an obvious Christ figure. Warden Norton (Bob Gunton) is obviously modeled on Richard Nixon, who, in his day, was as close to a personified Satan as they come.But if you aren't looking for subtexts, the movie speaks to anyone in search of hope. It is a compelling drama, and a very moving film, perfectly written, acted and shot. They just don't come much better than this.
+
+
+OVERALL SCORE: 9.8/10 = A+ The Shawshank Redemption served as a message of hope to Hollywood as well.More than any film in memory, it proved there is life after box office. Besting Forrest and Fiction, it ran solely on strong word of mouth and became the hottest rented film of 1995. It currently sits at #2 in the IMDb's Top 250 Films, occasionally swapping spots with The Godfather as the top ranked film of all time -- redemption indeed. If you haven't seen it yet, what the hell are you waiting for? As Andy says, 'It comes down a simple choice, really. Either get busy living, or get busy dying.'";
+        }
+    }
+}

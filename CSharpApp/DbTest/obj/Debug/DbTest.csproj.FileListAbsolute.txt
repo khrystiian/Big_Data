@@ -1,0 +1,17 @@
+D:\School\Big data project\Movie personality\IMDB-Watson\Watson imdb\DbTest\bin\Debug\DbTest.dll
+D:\School\Big data project\Movie personality\IMDB-Watson\Watson imdb\DbTest\bin\Debug\DbTest.pdb
+D:\School\Big data project\Movie personality\IMDB-Watson\Watson imdb\DbTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\School\Big data project\Movie personality\IMDB-Watson\Watson imdb\DbTest\bin\Debug\Watson.exe
+D:\School\Big data project\Movie personality\IMDB-Watson\Watson imdb\DbTest\bin\Debug\MongoDB.Driver.dll
+D:\School\Big data project\Movie personality\IMDB-Watson\Watson imdb\DbTest\bin\Debug\MongoDB.Bson.dll
+D:\School\Big data project\Movie personality\IMDB-Watson\Watson imdb\DbTest\bin\Debug\RestSharp.dll
+D:\School\Big data project\Movie personality\IMDB-Watson\Watson imdb\DbTest\bin\Debug\MongoDB.Driver.Core.dll
+D:\School\Big data project\Movie personality\IMDB-Watson\Watson imdb\DbTest\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\School\Big data project\Movie personality\IMDB-Watson\Watson imdb\DbTest\bin\Debug\Watson.pdb
+D:\School\Big data project\Movie personality\IMDB-Watson\Watson imdb\DbTest\bin\Debug\MongoDB.Driver.xml
+D:\School\Big data project\Movie personality\IMDB-Watson\Watson imdb\DbTest\bin\Debug\MongoDB.Bson.xml
+D:\School\Big data project\Movie personality\IMDB-Watson\Watson imdb\DbTest\bin\Debug\RestSharp.xml
+D:\School\Big data project\Movie personality\IMDB-Watson\Watson imdb\DbTest\bin\Debug\MongoDB.Driver.Core.xml
+D:\School\Big data project\Movie personality\IMDB-Watson\Watson imdb\DbTest\obj\Debug\DbTest.csprojResolveAssemblyReference.cache
+D:\School\Big data project\Movie personality\IMDB-Watson\Watson imdb\DbTest\obj\Debug\DbTest.dll
+D:\School\Big data project\Movie personality\IMDB-Watson\Watson imdb\DbTest\obj\Debug\DbTest.pdb
